@@ -1,3 +1,4 @@
 # git-and-github
-Demo repo to learn Git and GitHub
+Demo repo to learn Git and GitHub, 
+<br>
 Author - Sriraksha
