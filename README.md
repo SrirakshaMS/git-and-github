@@ -1,4 +1,4 @@
 # git-and-github
 Demo repo to learn Git and GitHub
 <br>
-Author - Sriraksha
+Author - Sriraksha M S
